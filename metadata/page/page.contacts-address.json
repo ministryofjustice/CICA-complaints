@@ -1,0 +1,60 @@
+{
+  "_id": "page.contacts-address",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.contacts-address--fieldset",
+      "_type": "fieldset",
+      "components": [
+        {
+          "_id": "page.contacts-address--fieldset--text.auto_name__13",
+          "_type": "text",
+          "label": "Building and street",
+          "name": "auto_name__13",
+          "validation": {
+            "required": false
+          }
+        },
+        {
+          "_id": "page.contacts-address--fieldset--text.auto_name__14",
+          "_type": "text",
+          "label": "Address line 2",
+          "labelhide": true,
+          "name": "auto_name__14",
+          "validation": {
+            "required": false
+          }
+        },
+        {
+          "_id": "page.contacts-address--fieldset--text.auto_name__15",
+          "_type": "text",
+          "label": "Town or city",
+          "name": "auto_name__15",
+          "validation": {
+            "required": false
+          }
+        },
+        {
+          "_id": "page.contacts-address--fieldset--text.auto_name__16",
+          "_type": "text",
+          "label": "County",
+          "name": "auto_name__16",
+          "validation": {
+            "required": false
+          }
+        },
+        {
+          "_id": "page.contacts-address--fieldset--text.auto_name__17",
+          "_type": "text",
+          "label": "Postcode",
+          "name": "auto_name__17",
+          "validation": {
+            "required": false
+          }
+        }
+      ],
+      "legend": "Enter the address of the person you are making a complaint for (optional)"
+    }
+  ],
+  "url": "contacts-address"
+}

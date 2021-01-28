@@ -1,0 +1,23 @@
+{
+  "_id": "page.contacts-name",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.contacts-name--text.auto_name__6",
+      "_type": "text",
+      "label": "Enter the name of the person you are making a complaint for",
+      "name": "auto_name__6"
+    }
+  ],
+  "enableSteps": true,
+  "show": {
+    "identifier": "auto_name__4",
+    "operator": "is",
+    "value": "auto_value__2"
+  },
+  "steps": [
+    "page.contacts-date-of-birth",
+    "page.contacts-address"
+  ],
+  "url": "contacts-name"
+}

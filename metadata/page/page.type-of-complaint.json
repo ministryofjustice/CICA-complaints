@@ -1,0 +1,45 @@
+{
+  "_id": "page.type-of-complaint",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.type-of-complaint--radios.auto_name__21",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.type-of-complaint--radios.auto_name__21--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Category 1",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.type-of-complaint--radios.auto_name__21--radio.auto_value__3--2",
+          "_type": "radio",
+          "label": "Category 2",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.type-of-complaint--radios.auto_name__21--radio.auto_value__3--3",
+          "_type": "radio",
+          "label": "Category 3",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.type-of-complaint--radios.auto_name__21--radio.auto_value__3--4",
+          "_type": "radio",
+          "label": "Category 4",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.type-of-complaint--radios.auto_name__21--radio.auto_value__3--5",
+          "_type": "radio",
+          "label": "Something else",
+          "value": "auto_value__3"
+        }
+      ],
+      "legend": "What is your complaint about?",
+      "name": "auto_name__21"
+    }
+  ],
+  "url": "type-of-complaint"
+}

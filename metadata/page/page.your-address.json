@@ -1,0 +1,49 @@
+{
+  "_id": "page.your-address",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.your-address--fieldset",
+      "_type": "fieldset",
+      "components": [
+        {
+          "_id": "page.your-address--fieldset--text.auto_name__7",
+          "_type": "text",
+          "label": "Building and street",
+          "name": "auto_name__7"
+        },
+        {
+          "_id": "page.your-address--fieldset--text.auto_name__8",
+          "_type": "text",
+          "label": "Address line 2",
+          "labelhide": true,
+          "name": "auto_name__8"
+        },
+        {
+          "_id": "page.your-address--fieldset--text.auto_name__9",
+          "_type": "text",
+          "label": "Town or city",
+          "name": "auto_name__9"
+        },
+        {
+          "_id": "page.your-address--fieldset--text.auto_name__10",
+          "_type": "text",
+          "label": "County (optional)",
+          "name": "auto_name__10",
+          "validation": {
+            "required": false
+          }
+        },
+        {
+          "_id": "page.your-address--fieldset--text.auto_name__11",
+          "_type": "text",
+          "label": "Postcode",
+          "name": "auto_name__11",
+          "widthClassInput": "one-third"
+        }
+      ],
+      "legend": "Enter your address"
+    }
+  ],
+  "url": "your-address"
+}
