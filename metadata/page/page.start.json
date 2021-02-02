@@ -1,9 +1,9 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "For more general enquiries or to ask us a question about your claim, [contact the CICA](https://www.justice.gov.uk/complaints/cica/complaint-form).",
+  "body": "For more general enquiries or to ask us a question about your claim, [contact the CICA](https://www.justice.gov.uk/complaints/cica/complaint-form).\r\n\r\n## Before you start\r\n\r\nYou will need to provide some personal information such as date of birth and address. This is so we can verify your identity before discussing the details of any claim you may have with us. You can read more about how we protect this information in our [privacy notice](https://www.gov.uk/guidance/cica-privacy-notice). \r\n\r\nIf you prefer not to provide this information, you can call to make your complaint:\r\n\r\n* Telephone: 0300 003 3601\r\n* From outside the UK: +44 20 3684 2517",
   "heading": "Complain to the CICA",
-  "lede": "Use this form to tell us about a poor experience you have had with the CICA.",
+  "lede": "Use this form to complain about an aspect of the CICA or how we have handled your claim.",
   "steps": [
     "page.your-name",
     "page.email-address",
