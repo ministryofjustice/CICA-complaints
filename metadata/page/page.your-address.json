@@ -17,7 +17,10 @@
           "_type": "text",
           "label": "Address line 2",
           "labelhide": true,
-          "name": "auto_name__8"
+          "name": "auto_name__8",
+          "validation": {
+            "required": false
+          }
         },
         {
           "_id": "page.your-address--fieldset--text.auto_name__9",

@@ -53,6 +53,7 @@
           }
         }
       ],
+      "hint": "We will use this to match your complaint with our records.",
       "legend": "Enter the address of the person you are making a complaint for (optional)"
     }
   ],
