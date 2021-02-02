@@ -9,29 +9,35 @@
         {
           "_id": "page.type-of-complaint--radios.auto_name__21--radio.auto_value__3",
           "_type": "radio",
-          "label": "Category 1",
+          "label": "Time taken to assess a claim",
           "value": "auto_value__3"
         },
         {
           "_id": "page.type-of-complaint--radios.auto_name__21--radio.auto_value__3--2",
           "_type": "radio",
-          "label": "Category 2",
+          "label": "Time taken to respond to correspondence",
           "value": "auto_value__3"
         },
         {
           "_id": "page.type-of-complaint--radios.auto_name__21--radio.auto_value__3--3",
           "_type": "radio",
-          "label": "Category 3",
+          "label": "Standard of customer service",
           "value": "auto_value__3"
         },
         {
           "_id": "page.type-of-complaint--radios.auto_name__21--radio.auto_value__3--4",
           "_type": "radio",
-          "label": "Category 4",
+          "label": "Provision of information",
           "value": "auto_value__3"
         },
         {
           "_id": "page.type-of-complaint--radios.auto_name__21--radio.auto_value__3--5",
+          "_type": "radio",
+          "label": "Management of a claim",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.type-of-complaint--radios.auto_name__21--radio.auto_value__3--6",
           "_type": "radio",
           "label": "Something else",
           "value": "auto_value__3"
