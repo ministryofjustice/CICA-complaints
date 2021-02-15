@@ -1,0 +1,17 @@
+{
+  "_id": "page.help",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.help--textarea.auto_name__23",
+      "_type": "textarea",
+      "hint": "Tell us briefly what you would like to see happen as a result of your complaint. Do not include any personal or financial information like your bank account or credit card number.",
+      "label": "How can we resolve your complaint? ",
+      "name": "auto_name__23",
+      "validation": {
+        "maxLength": 500
+      }
+    }
+  ],
+  "url": "help"
+}
