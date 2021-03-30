@@ -16,8 +16,6 @@
     "operator": "is",
     "value": "auto_value__3"
   },
-  "steps": [
-    "page.date-of-incident"
-  ],
+  "steps": [],
   "url": "cica-reference"
 }

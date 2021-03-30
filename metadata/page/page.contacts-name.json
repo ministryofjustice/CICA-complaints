@@ -11,11 +11,21 @@
   ],
   "enableSteps": true,
   "show": {
-    "identifier": "auto_name__4",
-    "operator": "is",
-    "value": "auto_value__2"
+    "all": [
+      {
+        "identifier": "auto_name__18",
+        "operator": "is",
+        "value": "auto_value__3"
+      },
+      {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "auto_value__2"
+      }
+    ]
   },
   "steps": [
+    "page.your-relationship",
     "page.contacts-date-of-birth",
     "page.contacts-address"
   ],
