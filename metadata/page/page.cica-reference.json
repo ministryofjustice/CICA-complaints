@@ -16,6 +16,8 @@
     "operator": "is",
     "value": "auto_value__3"
   },
-  "steps": [],
+  "steps": [
+    "page.complainant"
+  ],
   "url": "cica-reference"
 }

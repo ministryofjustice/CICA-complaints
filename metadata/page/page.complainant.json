@@ -1,0 +1,27 @@
+{
+  "_id": "page.complainant",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.complainant--radios.auto_name__4",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.complainant--radios.auto_name__4--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Myself",
+          "value": "auto_value__111"
+        },
+        {
+          "_id": "page.complainant--radios.auto_name__4--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Someone else",
+          "value": "auto_value__222"
+        }
+      ],
+      "legend": "Who are you contacting us for? ",
+      "name": "auto_name__4"
+    }
+  ],
+  "url": "complainant"
+}
